@@ -59,16 +59,16 @@ Computer Science Engineering Student
 ## Screenshots
 
 ### Login
-![Login](images/login.png)
+![Login](login.png)
 
 ### Register
-![Register](images/register.png)
+![Register](register.png)
 
 ### Admin Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Movie Details
-![Movie Details](images/movie-details.png)
+![Movie Details](movie-details.png)
 
 ### Edit Movie
-![Edit Movie](images/edit-movie.png)
+![Edit Movie](edit-movie.png)
